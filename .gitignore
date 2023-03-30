@@ -13,3 +13,9 @@ maps/carte_all_markers.html
 maps/carte_bornes_rechargement.html
 maps/carte_traffic_journalier.html
 maps/carte_vehicules.html
+maps/carte_all_markers.min.html
+maps/carte_bornes_rechargement.min.html
+maps/carte_traffic_journalier.min.html
+maps/carte_vehicules.min.html
+.gitignore
+maps/carte_vehicules_mini.html
